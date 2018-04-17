@@ -92,7 +92,7 @@ As much as possible, avoid putting your tool configuration (eslint, babel, etc..
 At some point during development, you are going to need to use an external library. During our time at MAD Kings we have curated a list of "good" JavaScript libraries. If you need that kind of functionality, consider using
 
 | Type         | Preferred | Ill-favored    | Reason                                                          |
-|--:-:---------|--:-:------|--:-:-----------|-----------------------------------------------------------------|
+|--------------|-----------|----------------|-----------------------------------------------------------------|
 | DateTime     | Date-fns  | Moment, Luxon  | Date-fns is cherry pickable                                     |
 | General Util | lodash    | underscore     | lodash respects semver                                          |
 | ES Polyfills | core-js   | Babel-polyfill | BP is just a wrapper around core-js, core-js is cherry-pickable |
