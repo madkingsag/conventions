@@ -12,3 +12,4 @@ This guide aims at defining clear guidelines for web development with the follow
 ## Technologies
 
 - [JavaScript](JavaScript.md)
+- [SQL](SQL.md)
