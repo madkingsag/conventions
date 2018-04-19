@@ -13,3 +13,4 @@ This guide aims at defining clear guidelines for web development with the follow
 
 - [JavaScript](JavaScript.md)
 - [SQL](SQL.md)
+- [CSS](CSS.md)
